@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background glowing diamond -->
+    <path
+        android:pathData="M 54,20 L 78,56 L 54,92 L 30,56 Z"
+        android:fillColor="#1DFF007F" />
+        
+    <!-- Main Glowing V Shape Soundwave -->
+    <path
+        android:pathData="M38,36 L54,74 L70,36"
+        android:strokeColor="#FFFF007F"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+        
+    <!-- Equalizer soundwaves bracketing the capital V logo -->
+    <path
+        android:pathData="M24,44 L24,64"
+        android:strokeColor="#FF00E5FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M31,49 L31,59"
+        android:strokeColor="#FF9D00FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M77,49 L77,59"
+        android:strokeColor="#FF9D00FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M84,44 L84,64"
+        android:strokeColor="#FF00E5FF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+</vector>
